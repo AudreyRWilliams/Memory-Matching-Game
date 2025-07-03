@@ -26,3 +26,12 @@ function shuffleCards() {
     cards[randomIndex] = temporaryValue;
   }
 }
+
+function restart() {
+  resetBoard();
+  shuffleCards();
+  score = 0;
+  document.querySelector(".score").textContent = score;
+  gridContainer.innerHTML = "";
+  generateCards();
+}
