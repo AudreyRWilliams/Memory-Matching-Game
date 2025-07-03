@@ -1,1 +1,6 @@
-
+[
+  {
+    "image": "../pics/horse.png",
+    "name": "horse"
+  }
+]
