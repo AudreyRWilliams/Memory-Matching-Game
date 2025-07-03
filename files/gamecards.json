@@ -2,5 +2,37 @@
   {
     "image": "../pics/horse.png",
     "name": "horse"
+  },
+  {
+    "image": "../pics/cat.png",
+    "name": "cat"
+  },
+  {
+    "image": "../pics/dog.png",
+    "name": "dog"
+  },
+  {
+    "image": "../pics/rabbit.png",
+    "name": "rabbit"
+  },
+  {
+    "image": "../pics/tiger.png",
+    "name": "tiger"
+  },
+  {
+    "image": "../pics/turtle.png",
+    "name": "turtle"
+  },
+  {
+    "image": "../pics/crocodile.png",
+    "name": "crocodile"
+  },
+  {
+    "image": "../pics/rooster.png",
+    "name": "rooster"
+  },
+  {
+    "image": "../pics/snake.png",
+    "name": "snake"
   }
 ]
